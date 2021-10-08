@@ -1,0 +1,301 @@
+json_duplicate_or_invalid_format:
+  code: 1000
+  localization:
+    en: "Json field duplicate or invalid format. Please try again"
+    th: "Json มีคีย์ซ้ำกันหรือรูปแบบฟอร์เมตผิด กรุณาลองใหม่อีกครั้ง"
+
+invalid_username_or_password:
+  code: 1001
+  localization:
+    en: "Invalid identificationNumber or password Please try again."
+    th: "รหัสพนักงานหรือรหัสผ่านไม่ถูกต้อง กรุณาลองใหม่อีกครั้ง"
+
+invalid_citizen_id:
+  code: 1002
+  localization:
+    en: "Invalid citizen id. Please try again"
+    th: "รหัสบัตรประชาชนไม่ถูกต้อง กรุณาลองใหม่อีกครั้ง"
+
+invalid_tax_id:
+  code: 1003
+  localization:
+    en: "Invalid tax id. Please try again"
+    th: "เลขประจำตัวผู้เสียภาษีไม่ถูกต้อง กรุณาลองใหม่อีกครั้ง"
+
+invalid_password:
+  code: 1004
+  localization:
+    en: "Sorry, your password is incorrect. Please try again"
+    th: "ขออภัย รหัสผ่านของคุณไม่ถูกต้อง กรุณาลองใหม่อีกครั้ง"
+
+invalid_phone_number:
+  code: 1005
+  localization:
+    en: "Invalid phone number. Please try again"
+    th: "เบอร์โทรศัพท์ไม่ถูกต้อง กรุณาลองใหม่อีกครั้ง"
+
+invalid_email:
+  code: 1006
+  localization:
+    en: "Invalid email. Please try again"
+    th: "อีเมลไม่ถูกต้อง กรุณาลองใหม่อีกครั้ง"
+
+invalid_reserved_email:
+  code: 1007
+  localization:
+    en: "Invalid reserved email. Please try again"
+    th: "อีเมลสำรองไม่ถูกต้อง กรุณาลองใหม่อีกครั้ง"
+
+invalid_token:
+  code: 1008
+  localization:
+    en: "Sorry invalid token. Please try again"
+    th: "โทเค็นไม่ถูกต้อง กรุณาลองใหม่อีกครั้ง"
+
+invalid_permission_role:
+  code: 1009
+  localization:
+    en: "Sorry, Your permission cannot do the transaction. Please try again"
+    th: "ขออภัย สิทธิ์ของคุณไม่สามารถทำรายการดังกล่าวได้ กรุณาลองใหม่อีกครั้ง"
+
+citizen_id_already_exists:
+  code: 1010
+  localization:
+    en: "Citizen ID already exists. Please try again"
+    th: "เลขบัตรประชาชนนี้มีอยู่แล้วในระบบ กรุณาลองใหม่อีกครั้ง"
+
+tax_id_already_exists:
+  code: 1011
+  localization:
+    en: "Tax ID already exists. Please try again"
+    th: "เลขบัตรประจำตัวผู้เสียภาษีนี้มีอยู่แล้วในระบบ กรุณาลองใหม่อีกครั้ง"
+
+phone_number_already_exists:
+  code: 1011
+  localization:
+    en: "This phone number already exists. Please try again"
+    th: "มีเบอร์นี้อยู่ในระบบอยู่แล้ว กรุณาลองใหม่อีกครั้ง"
+
+email_already_exists:
+  code: 1012
+  localization:
+    en: "This email already exists. Please try again"
+    th: "มีอีเมลนี้อยู่ในระบบอยู่แล้ว กรุณาลองใหม่อีกครั้ง"
+
+reserved_email_already_exists:
+  code: 1013
+  localization:
+    en: "This email already exists. Please try again"
+    th: "มีอีเมลนี้อยู่ในระบบอยู่แล้ว กรุณาลองใหม่อีกครั้ง"
+
+missing_occupation:
+  code: 1014
+  localization:
+    en: "Your occupation is missing. Please enter your occupation"
+    th: "อาชีพของท่่านไม่ได้ระบุ กรุณากรอกข้อมูลอาชีพของท่านให้เรียบร้อย"
+
+missing_company_name:
+  code: 1015
+  localization:
+    en: "Your company name is missing. Please enter your company name"
+    th: "ชื่อบริษัทของท่่านไม่ได้ระบุ กรุณากรอกข้อมูลชื่อบริษัทของท่านให้เรียบร้อย"
+
+missing_email:
+  code: 1014
+  localization:
+    en: "Your email is missing. Please enter your email"
+    th: "อีเมลของท่่านไม่ได้ระบุ กรุณากรอกข้อมูลอีเมลของท่านให้เรียบร้อย"
+
+invalid_prefix_path_upload:
+  code: 1015
+  localization:
+    en: "Prefix path for the upload file is invalid. Please try again."
+    th: "พาร์ทไฟล์สำหรับอัพโหลดไฟล์ไม่ถูกต้อง กรุณาลองใหม่อีกครั้ง"
+
+invalid_maximum_size:
+  code: 1016
+  localization:
+    en: "File upload have a maximum limit. Please try again."
+    th: "ไฟล์ที่อัพโหลด มีขนาดเกินกำหนด กรุณาลองใหม่อีกครั้ง"
+
+invalid_type_image_file:
+  code: 1017
+  localization:
+    en: "Sorry, can't to upload file because type file not type image."
+    th: "ขออภัย ไม่สามารถอัพโหลดไฟล์ได้ เนื่องจากไฟล์ไม่ใช่รูปภาพ"
+
+upload_file_fail:
+  code: 1018
+  localization:
+    en: "Upload file fail. Please try again."
+    th: "อัพโหลดไฟล์ไม่สำเร็จ กรุณาลองใหม่อีกครั้ง"
+
+queue_full:
+  code: 1019
+  localization:
+    en: "Sorry, this period time was full. Please try again."
+    th: "ขออภัย ช่วงเวลาที่ท่านจองได้เต็มแล้ว กรุณาลองใหม่อีกครั้ง"
+
+invalid_user_id:
+  code: 1020
+  localization:
+    en: "Sorry, user id is invalid. Please try again."
+    th: "ขออภัย ไอดีของสมาชิกไม่ถูกต้อง กรุณาลองใหม่อีกครั้ง"
+
+invalid_code_or_expired:
+  code: 1021
+  localization:
+    en: "Sorry, invalid code or expired. Please try again"
+    th: "ขออภัย รหัสยืนยันไม่ถูกต้องหรือหมดอายุ กรุณาลองใหม่อีกครั้ง"
+
+already_verified:
+  code: 1022
+  localization:
+    en: "Sorry, this code already verified"
+    th: "ขออภัย รหัสยืนยันได้รับการยืนยันหรือใช้งานไปแล้ว"
+
+invalid_address_type:
+  code: 1023
+  localization:
+    en: "Sorry, address type is invalid, Please try again."
+    th: "ขออภัย ประเภทที่อยู่ไม่ถูกต้อง กรุณาลองใหม่อีกครั้ง"
+
+username_not_found:
+  code: 1024
+  localization:
+    en: "Sorry, username doesn't exists. Please try again."
+    th: "ขออภัย รหัสสมาชิกของท่านไม่พบในระบบ กรุณาลองใหม่อีกครั้ง"
+
+invalid_express_type:
+  code: 1025
+  localization:
+    en: "Sorry, express type is invalid, Please try again."
+    th: "ขออภัย ประเภทการจัดส่งไม่ถูกต้อง กรุณาลองใหม่อีกครั้ง"
+
+invalid_secret_key:
+  code: 1026
+  localization:
+    en: "Sorry, secret key is invalid, Please try again."
+    th: "ขออภัย คีย์ลับไม่ถูกต้อง กรุณาลองใหม่อีกครั้ง"
+
+invalid_identification_number:
+  code: 1027
+  localization:
+    en: "Sorry, citizen id or tax id is invalid, Please try again."
+    th: "ขออภัย บัตรประชาชนหรือเลขประจำตัวผู้เสียภาษีไม่ถูกต้อง กรุณาลองใหม่อีกครั้ง"
+
+already_approved:
+  code: 1028
+  localization:
+    en: "Sorry, you can't process the request that already approved"
+    th: "ขออภัย ไม่สามารถดำเนินการคำขอร้องที่ได้รับการอนุมัติแล้ว"
+
+invalid_approval_type:
+  code: 1029
+  localization:
+    en: "Invalid approval type. Please try again"
+    th: "ขออภับ ประเภทการอนุุมัติไม่ถูกต้อง กรุณาลองใหม่อีกครั้ง"
+
+no_product_purchase:
+  code: 1030
+  localization:
+    en: "Sorry, this factory doesn't purchase this product"
+    th: "ขออภัย โรงงานดังกล่าวไม่รับซื้อสินค้านี้"
+
+address_type_not_deletable:
+  code: 1031
+  localization:
+    en: "Sorry, Current Address or House Address is not allowed to delete"
+    th: "ขออภัย ไม่อนุญาติให้ลบที่อยู่ปัจจุบันหรือที่อยู่ตามภูมิลำเนาได้"
+
+already_submitted_booking:
+  code: 1032
+  localization:
+    en: "Sorry, this booking is already submitted and can't be edit"
+    th: "ขออภัย การจองของท่านได้รับการยืนยันแล้ว ไม่สามารถดำเนินการแก้ไขได้"
+
+invalid_username:
+  code: 1033
+  localization:
+    en: "Sorry, username is invalid. Please try again."
+    th: "ขออภัย รหัสลูกค้าไม่ถูกต้อง กรุณาลองใหม่อีกครั้ง"
+
+address_type_not_creatable:
+  code: 1034
+  localization:
+    en: "Sorry, this address type can't be create"
+    th: "ขออภัย ประเภทของสถานที่ของท่านไม่สามารถถูกสร้างได้ในขณะนี้ กรุณาลองใหม่อีกครั้ง"
+
+invalid_total_product:
+  code: 1035
+  localization:
+    en: "Sorry, sum of product not equal to total product"
+    th: "ขออภัย ผลรวมของจำนวนเชื้อเพลิงไม่ถูกต้องตามยอดเชื้อเพลิงประมาณการ"
+
+invalid_permission_access:
+  code: 1036
+  localization:
+    en: "Sorry, you don't have permission to access other user information"
+    th: "ขออภัย คุณไม่มีสิทธิ์ในการเข้าถึงข้อมูลของผู้ใช้งานอื่นได้"
+
+invalid_booking_status:
+  code: 1037
+  localization:
+    en: "Sorry, booking status is invalid, please try again"
+    th: "ขออภัย สถานะการจองไม่ถูกต้อง กรุณาลองใหม่อีกครั้ง"
+
+unable_to_process_multiple_car_queue :
+  code: 1038
+  localization:
+    en: "Sorry, you can't process multiple bookings from multiple car queues, please try again"
+    th: "ขออภัย คุณไม่สามารถดำเนินการรายการจอง จากหลาย ๆ รายการคิวรถได้ กรุณาลองใหม่อีกครั้ง"
+
+invalid_car_queue_status:
+  code: 1039
+  localization:
+    en: "Sorry, car queue status is invalid, please try again"
+    th: "ขออภัย สถานะคิวจองรถไม่ถูกต้อง กรุณาลองใหม่อีกครั้ง"
+
+invalid_rating:
+  code: 1040
+  localization:
+    en: "Sorry, your rating number is incorrect"
+    th: "ขออภัย คุณให้จำนวน rating ไม่ถูกต้อง"
+
+already_rating:
+  code: 1041
+  localization:
+    en: "Sorry, already rating"
+    th: "ขออภัย คุณให้ rating เรียบร้อยแล้ว"
+    
+# These are what we response to our internal services
+internal:
+  success:
+    code: 200
+    localization:
+      en: "Success"
+      th: "สำเร็จ"
+
+  bad_request:
+    code: 400
+    localization:
+      en: "System cannot process this request at the moment. Please try again later"
+      th: "ขออภัย คำร้องขอของคุณเกิดข้อผิดพลาด กรุณาลองใหม่อีกครั้ง"
+
+  connection_error:
+    code: 500
+    localization:
+      en: "Connection error. Please try again"
+      th: "ขออภัย ระบบไม่สามารถดำเนินการได้ในขณะนี้ กรุณาลองใหม่อีกครั้ง"
+
+  database_not_found:
+    code: 404
+    localization:
+      en: "Database not found. Please try again"
+      th: "ขออภัย ไม่พบข้อมูลในระบบ กรุณาลองใหม่อีกครั้ง"
+
+  unauthorized:
+    code: 401
+    localization:
+      en: "this request at the moment. Please try again later"
+      th: "ขออภัย ระบบไม่อนุญาตให้คุณเข้าถึงการร้องขอได้ กรุณาลองใหม่อีกครั้ง"

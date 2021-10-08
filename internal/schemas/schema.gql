@@ -1,0 +1,18 @@
+schema {
+    query: Query
+}
+
+type Query {
+    user(id: Int!): User
+}
+
+type User {
+    id: Int!
+    # created_at: Time!
+    # updated_at: Time!
+    first_name: String!
+    last_name: String!
+    email: String!
+}
+
+scalar Time

@@ -1,0 +1,26 @@
+
+APP:
+  PROJECT_ID: "go-graphql"
+  WEB_BASE_URL: ""
+  API_BASE_URL: ""
+  RELEASE: false
+  PORT: 8000
+
+HTTP_SERVER:
+  READ_TIMEOUT: 5s
+  WRITE_TIMEOUT: 10s
+  IDLE_TIMEOUT: 120s
+
+SQL:
+  HOST: "34.87.107.226"
+  PORT: 5432
+  USERNAME: "feed"
+  PASSWORD: "lksdajfoijret345sfWRfdsf"
+  DATABASE_NAME: "feedstock-dev"
+  DRIVER_NAME: "postgres"
+  ENABLE: true
+  
+JWT:
+  EXPIRE_TIME: 24h0m0s
+  PRIVATE_KEY_PATH: "./configs/jwt/private-key.pem"
+  PUBLIC_KEY_PATH: "./configs/jwt/public-key.pem"
